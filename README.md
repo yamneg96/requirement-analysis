@@ -87,8 +87,6 @@ Use Case Diagrams visually represent the system’s functionality and the actors
 
 ![Use Case Diagram](alx-booking-uc.png)
 
-> *(Image: `alx-booking-uc.png` should be created in Draw.io or Lucidchart and uploaded to the repo.)*
-
 Actors:
 - **User**
 - **Admin**
